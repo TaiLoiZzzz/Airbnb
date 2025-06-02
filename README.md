@@ -14,7 +14,7 @@
 
 | Layer         | Technology                            |
 |---------------|----------------------------------------|
-| Language      | `Java 21`                              |
+| Language      | `Java 17`                              |
 | Framework     | `Spring Boot 3.3.0`                    |
 | Database      | `PostgreSQL 16` + `JPA / Hibernate`    |
 | Caching       | `Redis 7`                              |
