@@ -1,4 +1,4 @@
-# 🏡 Airbnb | Ronin Engineer
+# 🏡 Airbnb 
 
 > **Quach Tai Loi** - Backend implementation of a modern Airbnb-style platform with robust backend engineering principles and production-grade tooling.
 
