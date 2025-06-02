@@ -66,13 +66,7 @@
 
 ---
 
-## 👨‍💻 Developer
 
-- **Ronin Engineer** – _Quach Tai Loi_
-- 
 
----
-
-## 📄 License
 
 This project is licensed under the MIT License. See `LICENSE` for details.
